@@ -604,6 +604,7 @@
 - [nyc](https://github.com/bcoe/nyc) - Code coverage tool built on istanbul that works with subprocesses.
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness.
+- [pitesti](https://github.com/bengl/pitesti) - Super-simple no-frills test framework.
 - [power-assert](https://github.com/power-assert-js/power-assert) - Provides descriptive assertion messages through the standard assert interface.
 - [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 - [trevor](https://github.com/vdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
